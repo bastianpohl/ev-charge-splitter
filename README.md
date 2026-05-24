@@ -1,7 +1,7 @@
 # ⚡ EV Charge Splitter for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
-[![Add to My Home Assistant](https://my.home-assistant.io/badges/hacs_repository.svg?style=for-the-badge)](https://my.home-assistant.io/redirect/hacs_repository/?owner=chewie&repository=ev-charge-splitter&category=integration)
+[![Add to My Home Assistant](https://my.home-assistant.io/badges/hacs_repository.svg?style=for-the-badge)](https://my.home-assistant.io/redirect/hacs_repository/?owner=bastianpohl&repository=ev-charge-splitter&category=integration)
 
 A premium, native Home Assistant integration that splits your EV/Wallbox charging power in real-time into three separate sensors: **Grid Share**, **Battery Share**, and **Solar (PV) Share**.
 
