@@ -1,0 +1,6 @@
+{
+  "name": "EV Charge Splitter",
+  "type": "integration",
+  "iot_class": "local_polling",
+  "render_readme": true
+}

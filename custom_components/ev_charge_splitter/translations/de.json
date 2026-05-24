@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "EV Ladeleistungs-Splitter",
+        "description": "Wähle die Quell-Sensoren für die Aufteilung der Ladeleistung aus.",
+        "data": {
+          "charger_power_sensor": "Wallbox/Fahrzeug Ladeleistungs-Sensor",
+          "grid_import_sensor": "Netzbezug Leistungs-Sensor",
+          "battery_discharge_sensor": "Batterie Entladeleistungs-Sensor"
+        }
+      }
+    }
+  }
+}

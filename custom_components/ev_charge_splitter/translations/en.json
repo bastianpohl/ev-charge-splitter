@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "EV Charge Splitter",
+        "description": "Select the inputs for the EV Charge Splitter integration.",
+        "data": {
+          "charger_power_sensor": "Charger Power Sensor",
+          "grid_import_sensor": "Grid Import Power Sensor",
+          "battery_discharge_sensor": "Battery Discharge Power Sensor"
+        }
+      }
+    }
+  }
+}

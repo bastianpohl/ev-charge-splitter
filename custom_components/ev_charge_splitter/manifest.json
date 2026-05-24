@@ -1,0 +1,11 @@
+{
+  "domain": "ev_charge_splitter",
+  "name": "EV Charge Splitter",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/bp/ev_charge_splitter",
+  "integration_type": "helper",
+  "iot_class": "local_polling",
+  "version": "1.0.0"
+}
